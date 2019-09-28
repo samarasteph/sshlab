@@ -1,0 +1,2 @@
+ARGS=$(bash ./resolve.sh $*)
+ssh $ARGS
